@@ -79,6 +79,10 @@ The project follows a standard machine learning workflow:
     *   Confusion Matrices
     *   AUC-ROC curves and scores (using the One-vs-Rest approach for multi-class evaluation)
 
+### Model Explainability
+
+*   To gain insights into the factors influencing the model's predictions, **Feature Importance** was analyzed, particularly for the tree-based models like XGBoost and Random Forest. This method identifies the features that the model utilized most effectively in making predictions.
+
 
 ## Key Findings & Insights
 
